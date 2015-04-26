@@ -114,7 +114,7 @@ Controller('myTemplate', {
 Easy peasy.
 
 #### Tests
-Controller comes with [a small suite of TinyTest-based tests](https://github.com/themeteorchef/controller/tests) to ensure that all of your logic makes it to the dark side safely. To run the tests:
+Controller comes with [a small suite of TinyTest-based tests](https://github.com/themeteorchef/controller/tree/master/tests) to ensure that all of your logic makes it to the dark side safely. To run the tests:
 
 1. Install the TinyTest package `meteor add tinytest`.
 2. Run Meteor with tests `meteor test-packages`.
