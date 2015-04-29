@@ -1,6 +1,6 @@
 Package.describe({
   name: 'themeteorchef:controller',
-  version: '1.0.1',
+  version: '1.0.3',
   summary: 'An API for organizing your template logic.',
   git: 'https://github.com/themeteorchef/controller',
   documentation: 'README.md'
