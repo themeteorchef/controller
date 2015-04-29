@@ -10,6 +10,7 @@ An API for organizing your template logic.
 2. API
 3. Tests
 4. Contributing
+  1. Contributors
 5. License
 
 #### Basic Usage
@@ -127,6 +128,10 @@ Controller comes with [a small suite of TinyTest-based tests](https://github.com
 
 #### Contributing
 Contributing, forking, and dorking is fully encouraged with Controller! If you'd like to help out with the package, take a look at the [contribution guide](https://github.com/themeteorchef/controller/wiki/Contribution-Guide) and start hacking :)
+
+##### Contributors
+A special thanks to people who have contributed to Controller.
+- [Francois Lecroart (peernohell)](https://github.com/peernohell)
 
 #### License
 The code for this package is licensed under the [MIT License](http://opensource.org/licenses/MIT).
