@@ -9,6 +9,8 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
 
+  api.use(['templating'], 'client');
+
   api.addFiles([
     'lib/controller.js'
   ], ['client']);
